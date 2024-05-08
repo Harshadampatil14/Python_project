@@ -1,5 +1,5 @@
 from random import randint
-
+print("Hello world!")
 min_number = int(input('Please enter the min number: '))
 max_number = int(input('Please enter the max number: '))
 
